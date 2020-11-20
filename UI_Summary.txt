@@ -1,0 +1,9 @@
+UI Summary
+
+The user interface is implemented with the following frameworks:
+  1. Bootstrap to increase responsiveness of the UI
+  2. ApexCharts to display the data in an effective manner
+  
+The idea for the front-end:
+  1. The user will be greeted by a selection menu where they can select which graph they want to view. Once the user clicks on their desired graph, the graph is displayed to the page. Our front-end will allow for dynamic and quick accessing of the data from the database becasue the data needs to only be delivered in an array format to be displayed in a graph. Therefore, JSON will likely be used so that this format can be accomplished.
+  

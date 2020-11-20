@@ -1,0 +1,24 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#chart {
+  max-width: 90%;
+  max-height: 80%;
+  margin: 35px auto;
+}
+
+#title{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  padding-top: 15px;
+}
+#sub{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#desc {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
