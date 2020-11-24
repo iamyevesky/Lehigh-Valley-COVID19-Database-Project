@@ -2,6 +2,8 @@
 The fully implemented website can be accessed at the following URL:
 http://139.147.9.198
 
+To host the website locally on your computer, follow the steps below.
+
 1. Install Node.js and NPM usingcommands:
 
 • sudo apt-get update
