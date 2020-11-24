@@ -8,7 +8,7 @@ Install Node.js and NPM usingcommands:
 • sudo apt-get install npm
 
 Git Clone Application
-git clone https://github.com/rphan038/Lehigh- Valley-COVID19-Database-Project.git
+git clone https://github.com/rphan038/Lehigh-Valley-COVID19-Database-Project.git
 
 Install all necessary packages in the package.json using command:
 • npm install express
