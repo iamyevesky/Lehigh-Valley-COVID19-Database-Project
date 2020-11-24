@@ -2,7 +2,7 @@
 The fully implemented website can be accessed at the following URL:
 http://139.147.9.198
 
-Install Node.js and NPM usingcommands:
+1. Install Node.js and NPM usingcommands:
 
 • sudo apt-get update
 
@@ -10,7 +10,7 @@ Install Node.js and NPM usingcommands:
 
 • sudo apt-get install npm
 
-Git Clone Application
+2. Git Clone Application
 
 git clone https://github.com/rphan038/Lehigh-Valley-COVID19-Database-Project.git
 
@@ -20,9 +20,9 @@ Install all necessary packages in the package.json using command:
 
 • npm install pg
 
-Enter command node dbpg.js to run the server
+3. Enter command node dbpg.js to run the server
 
-Navigate to the "public" directory and enter nano index.html
+4. Navigate to the "public" directory and enter nano index.html
 
 Change <script src="/public/main.js"></script>
 to 
@@ -32,4 +32,4 @@ Change <link rel="stylesheet" href="public/style.css">
 to
 <link rel="stylesheet" href="style.css">
 
-Open index.html in the web browser
+5. Open index.html in your web browser
