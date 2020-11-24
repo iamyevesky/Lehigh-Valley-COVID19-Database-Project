@@ -14,15 +14,15 @@ http://139.147.9.198
 
 git clone https://github.com/rphan038/Lehigh-Valley-COVID19-Database-Project.git
 
-Install all necessary packages in the package.json using command:
+3. Install all necessary packages in the package.json using command:
 
 • npm install express
 
 • npm install pg
 
-3. Enter command node dbpg.js to run the server
+4. Enter command node dbpg.js to run the server
 
-4. Navigate to the "public" directory and enter nano index.html
+5. Navigate to the "public" directory and enter nano index.html
 
 Change <script src="/public/main.js"></script>
 to 
@@ -32,4 +32,4 @@ Change <link rel="stylesheet" href="public/style.css">
 to
 <link rel="stylesheet" href="style.css">
 
-5. Open index.html in your web browser
+6. Open index.html in your web browser
