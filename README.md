@@ -30,8 +30,8 @@ Change <script src="/public/main.js"></script>
 to 
 <script src="main.js"></script>
 
-Change <link rel="stylesheet" href="public/style.css"> 
+Change '<link rel="stylesheet" href="public/style.css">'
 to
-<link rel="stylesheet" href="style.css">
+'<link rel="stylesheet" href="style.css">'
 
 6. Open index.html in your web browser
